@@ -1,0 +1,14 @@
+div>p{
+    line-height: 3vh
+}
+.item{
+    margin: 2vh 0 0;
+    border-bottom: 1px solid #DFE0EB;
+}
+.view>p{
+    color: #9FA2B4
+}
+div>span{
+    color: #F7941D;
+    font-weight: 600;
+}

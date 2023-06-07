@@ -1,0 +1,9 @@
+.active{
+    background-color: pink!important;
+    /* background: #9FA2B4; */
+opacity: 0.08;
+color: white!important;
+}
+.active>span{
+    color: white;
+}

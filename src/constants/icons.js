@@ -1,0 +1,17 @@
+import searchIcon from "../assets/images/search.png"
+import notifyHeader from "../assets/images/new.png"
+import profile from "../assets/images/m header.png"
+import register from "../assets/images/Registration.png"
+import bg from "../assets/images/bg.png"
+import food from "../assets/images/Food.png"
+import orderHistory from "../assets/images/Order History.png"
+import edit from "../assets/images/Edit.png"
+import menuItem from "../assets/images/order.png"
+import overView from "../assets/images/overview_inactive.svg"
+import tables from "../assets/images/table_inactive.svg"
+import orders from "../assets/images/order_inactive.svg"
+import settings from "../assets/images/settings_inactive.svg"
+import menu from "../assets/images/menu_active.svg"
+import account from "../assets/images/account_inactive.svg"
+
+export default {overView, tables, settings, menu, orders, edit, menuItem,searchIcon, notifyHeader, profile, register, bg, food, orderHistory, account};
